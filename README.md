@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagabasavanna
-- 👀 I’m interested in coding ,As an undergraduate computer science student
-- 🌱 I’m currently studying in sjce
+- 👀 I’m a software engineer 
+- 🌱 I’m currently working in HPE
 
 - 📫 How to reach me ...
 mailid- nagabasavanna22@gmail.com
